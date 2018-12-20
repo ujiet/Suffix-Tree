@@ -1,0 +1,16 @@
+本程式使用 Python 3.6.5 編寫。執行時，請以 Python 運行 Main.py 檔案，即可開始測試。
+輸入欲尋找的序列，請在每個數字的中間以一個空白分隔。
+
+e.g. Please enter pattern to search: 65 35 54
+
+輸入後即會顯示搜尋的結果於 console 上，若有找到則顯示在那些輸入字串發現。
+
+e.g. Please enter pattern to search: 17 97
+     find in T057 T075 T136
+
+若無找到，則顯示沒有結果。
+
+e.g. Please enter pattern to search: 12 54 32
+     not find
+
+若要結束執行，請輸入空字串，即可結束程式。
